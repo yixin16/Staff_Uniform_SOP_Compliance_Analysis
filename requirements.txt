@@ -1,0 +1,15 @@
+# Deep Learning and Computer Vision Libraries
+torch
+torchvision
+ultralytics
+opencv-python
+
+# AI Models and Utilities from Hugging Face
+transformers
+scikit-learn 
+
+# Utilities
+numpy
+Pillow        # For image processing with PIL
+matplotlib    # For plotting training graphs
+tqdm         
