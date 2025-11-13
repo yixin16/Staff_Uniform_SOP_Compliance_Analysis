@@ -10,7 +10,7 @@ SOURCE_DIR = "data_collection"
 REFERENCE_DIR = "reference_img"
 DEST_DIR = "ppe_dataset"
 TRAIN_RATIO = 0.50
-AUGMENT_MULTIPLIER = 5 # Using a higher multiplier for more data
+AUGMENT_MULTIPLIER = 5
 SEED = 42
 
 # --- Utility Functions ---
